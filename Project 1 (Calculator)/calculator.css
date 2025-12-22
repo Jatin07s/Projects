@@ -1,0 +1,24 @@
+#container{
+    border: 1px solid black;
+    width: 250px;
+    background-color: rgb(228, 214, 214);
+    border-radius: 7px;
+
+}
+#display{
+    margin: 10px;
+    width: 220px;
+    font-size: 35px;
+}
+.btn{
+    height: 45px;
+    width: 50px;
+    margin: 7px;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
