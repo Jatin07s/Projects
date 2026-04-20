@@ -1,0 +1,5 @@
+firstly create the navbar (with logo , and options and button)
+using font - poppins , using google fonts poppins , then import the code like <script>... code <script/> and copy the link and import that in app.css
+font family , inserted in the body tag in app.css
+now , everywhere poppins font will use 
+now, style the nav bar
